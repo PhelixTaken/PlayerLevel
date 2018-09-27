@@ -1,0 +1,8 @@
+main: me.phelix.custom.Main
+version: 1.0
+name: test
+commands:
+  stats:
+  add:
+  set:
+  remove:
